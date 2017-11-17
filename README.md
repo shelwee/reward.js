@@ -4,7 +4,7 @@ reward.js 是一个只需一行代码即可实现网站赞赏功能的 JS 。（
 ## 2.为什么要开发 Reward.js ？
 目前网上有很多种基于二维码赞赏功能的实现方式，但大部分实现都需要改动网站多处地方，侵入性太强。因此就有了这个项目，至少我认为这种实现方式更优雅一些。
 ## 3.Reward.js 怎么用？
-1. 下载 reward.min.js 
+1. 下载 [reward.min.js](https://raw.githubusercontent.com/shelwee/reward.js/master/reward.min.js) 
 2. 把 reward.min.js 文件里的两个二维码图片链接改为自己的并上传到服务器上
 3. 在对应的页面插入下面这行代码即可显示赞赏按钮。（同样把下面的 src 的链接修改为你服务器上的 reward.min.js 的链接。）
 ```js
